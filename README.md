@@ -1,1 +1,3 @@
 # Wisielec
+
+If You want to install this programm on your`s computer ... 
